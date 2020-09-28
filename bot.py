@@ -5,7 +5,7 @@ from discord.utils import get
 from discord.ext import commands
 
 
-TOKEN = 'NzQyNTY5NDMyMTQzODg4Mzg4.XzIBrA.5Fuzri1oWaylzkvxJbWdoOp7wzk'
+TOKEN = //paste personal token
 client = commands.Bot(command_prefix = '!')
 
 
